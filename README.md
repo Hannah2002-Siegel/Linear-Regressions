@@ -1,5 +1,6 @@
 # Linear-Regressions
 A collection of projects and assignments from the STAT 425 Intro to Linear Regressions course at the University of Nevada Reno.
+Each of the folders includes the dataset used, the submitted analysis and conclusions pdf, the homework.R file used to run the data analysis, and the homework directions and questions pdf. 
 
 HMWK 4 - Correlation
   This homework focused on finding the correlation between different aspects of the data set and interpretting how those correlation coefficients can be rationalized and turned into applicapble conclusions.
